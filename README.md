@@ -3,8 +3,8 @@
 # Password Generator
 
 ## Description
-Welcome to the Password Generator project!
-An application that generates random passwords.
+- Welcome to the Password Generator project!
+- An application that generates random passwords.
 
 ## Technical Acceptance Criteria: 40%
 - [x] Satisfies all of the above acceptance criteria.
