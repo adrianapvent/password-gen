@@ -37,7 +37,7 @@ Deployment: 32%
 
 ## Mock-up
 ![mockup](Develop/assets/images/03-javascript-homework-demo.png)
-You may visit the deployed [website]() to try it out for yourself!
+You may visit the deployed [website](file:///Users/veronicapena/projects/friendly-parakeet/Develop/index.html) to try it out for yourself!
 
 ## Installation
 - VSCode
